@@ -6,4 +6,4 @@
 
 ![screenshot_2016-10-08-14-52-09 1](https://cloud.githubusercontent.com/assets/15699557/19218504/bd96e174-8e25-11e6-85e6-6b4325dee3c5.png)
 
-## **_Luis Anggraeni,XIIRPL2,22,4369/1276,SMK Telkom Malang_**
+## **_Luis Anggraeni,XIIRPL2,22,4369/1276.063,SMK Telkom Malang_**
